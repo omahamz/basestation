@@ -17,7 +17,7 @@ const Telemetry = () => {
               <CardTitle>Telemetry</CardTitle>
             </CardHeader>
             <CardContent>
-             
+             Test!
             </CardContent>
             <CardFooter>
       
